@@ -16,7 +16,7 @@ I take a quant UX approach to create [usable evidence](https://pubmed.ncbi.nlm.n
 
 ## Tools
 
-Python, R, lme4 for multilevel modeling, altair for visualization, hmmTMB for hidden Markov modeling in a multilevel framework. [Sawtooth Software](https://sawtoothsoftware.com/) for survey deployment. At home in Linux/Unix environments.
+Python, R, lme4 for multilevel modeling, `marginaleffects` for posthoc analysis, altair for visualization, hmmTMB for hidden Markov modeling in a multilevel framework. [Sawtooth Software](https://sawtoothsoftware.com/) for survey deployment. At home in Linux/Unix environments.
 
 ## Selected Publications
 
