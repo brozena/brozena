@@ -16,7 +16,7 @@ I take a quant UX approach to create [usable evidence](https://pubmed.ncbi.nlm.n
 
 ## Tools
 
-Python, R, `lme4` for multilevel modeling, [`marginaleffects`](https://marginaleffects.com/) for posthoc analysis, [`altair`](https://github.com/vega/altair) for visualization, [`hmmTMB`](https://github.com/TheoMichelot/hmmTMB) for hidden Markov models in a multilevel framework. [Sawtooth Software](https://sawtoothsoftware.com/) for survey deployment. At home in Linux/Unix environments.
+Python, R, `lme4` for multilevel modeling, [`marginaleffects`](https://marginaleffects.com/) for posthoc analysis, [`altair`](https://github.com/vega/altair) for visualization, [`hmmTMB`](https://github.com/TheoMichelot/hmmTMB) for hidden Markov models in a multilevel framework. [Sawtooth Software](https://sawtoothsoftware.com/) (who kindly [awarded me a grant](https://sawtoothsoftware.com/academics/grants/grant-recipients/jeff-brozena)) for survey deployment. At home in Linux/Unix environments.
 
 ## Selected Publications
 
