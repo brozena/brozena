@@ -8,7 +8,7 @@ The American Psychiatric Association (APA) considers “engaging in unrestrained
 
 ## My Approach
 
-I'm working to understand how fintech-equipped interfaces might support the financial lives of people living with this condition. For example, what would _financial_ advance care planning look like for people who wanted it and how might software incorporate open banking data to support those plans? For people who want others involved during risky symptomatic periods, who, when, how, and for how long? What sorts of financial life events are associated with involving trusted others in financial interventions?
+I'm working to understand how fintech-equipped interfaces might support the financial lives of people living with this condition. For example, what would _financial_ advance care planning look like for people who wanted it and how might software incorporate open banking data to support those plans? For people who want others involved during risky symptomatic periods, who, when, how, and for how long? What sort of financial life events are associated with involving trusted others in financial interventions?
 
 I've collaborated with clinicians, digital health researchers, and people with lived experience to understand what is (and what's not!) feasible, acceptable, and possible if we involve financial data into clinical contexts.
 
