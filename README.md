@@ -30,7 +30,7 @@ Python, R, lme4 for multilevel modeling, altair for visualization, hmmTMB for hi
 
 **Evidence-based Digital Design: Utilizing MaxDiff Findings to Guide the Development of Financial Interventions in Bipolar Disorder** · First author · Accepted, Conference of the International Society for Bipolar Disorders, 2026
 
-> A MaxDiff survey deployed to 150 individuals with BD in order to rank 6 digital health intervention features intended to help promote financial stability in this population. The MaxDiff design has not been used in the field of mental health before.
+> A MaxDiff survey deployed to 150 individuals with BD in order to rank 6 digital health intervention features intended to help promote financial stability in this population. The MaxDiff design had not been used in the field of mental health before.
 
 **Eight Years of Autonomic Monitoring: An N-of-1 Longitudinal Study of Wearable-derived HRV Anomalies and Self-reported Mood Logs**
 
