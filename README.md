@@ -4,7 +4,9 @@
 
 ## The Problem
 
-The American Psychiatric Association (APA) considers “engaging in unrestrained buying sprees or foolish business investments” as part of the diagnostic criteria for bipolar disorder.
+The American Psychiatric Association (APA) considers “engaging in unrestrained buying sprees or foolish business investments” as part of the diagnostic criteria for bipolar disorder, a chronic, episodic and serious mental illness. The APA considers this to have “a high potential for painful consequences”.
+
+For those impacted by this illness – including families, friends, and caregivers – these painful consequences are often quite material and last far longer than symptomatic periods. For example, in a [population-scale study](https://doi.org/10.1001/jamapsychiatry.2023.1179) analyzing the credit histories and health records of 46,167 individuals, those with bipolar disorder type I were shown to be at a **50% greater likelihood** of declaring bankruptcy than the healthy population.
 
 ## My Approach
 
