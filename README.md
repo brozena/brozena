@@ -14,7 +14,7 @@ I'm working to understand how fintech-equipped interfaces might support the fina
 
 I've collaborated with clinicians, digital health researchers, and people with lived experience to understand what is (and what's not!) feasible, acceptable, and possible if we involve financial data into clinical contexts.
 
-I take a [quant UX](https://quantuxblog.com/the-quant-ux-book) approach to create [usable evidence](https://pubmed.ncbi.nlm.nih.gov/30272059/) to inform financial intervention design.
+I take a [quant UX](https://quantuxblog.com/the-quant-ux-book) approach  in order to create [usable evidence](https://pubmed.ncbi.nlm.nih.gov/30272059/) to inform financial intervention design.
 
 ## Tools
 
