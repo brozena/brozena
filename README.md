@@ -10,7 +10,7 @@ For those impacted by this illness – including families, friends, and caregive
 
 ## My Approach
 
-I'm working to understand how fintech-equipped interfaces might support the financial lives of people living with this condition. For example, what would _financial_ advance care planning look like for people who wanted it and how might software incorporate open banking data in order to support those plans? How do certain adverse financial life events influence whether people are comfortable involving trusted others in financial interventions?
+I'm working to understand how fintech-equipped interfaces might support the financial lives of people living with this condition. For example, what would _financial_ advance care planning look like for people who wanted it? How might software incorporate open banking data in order to support those plans? How do certain adverse financial life events influence whether people are comfortable involving trusted others in financial interventions?
 
 I've collaborated with clinicians, digital health researchers, and people with lived experience to understand what is (and what's not!) feasible, acceptable, and possible if we involve financial data into clinical contexts.
 
