@@ -4,18 +4,27 @@
 
 ## The Problem
 
-The American Psychiatric Association (APA) considers “engaging in unrestrained buying sprees or foolish business investments” as part of the diagnostic criteria for bipolar disorder, a chronic, episodic and serious mental illness. The APA considers this to have “a high potential for painful consequences”.
+The American Psychiatric Association (APA) considers “engaging in unrestrained buying sprees or foolish business investments” as part of the diagnostic criteria for bipolar disorder, a chronic, episodic and serious mental illness. The APA considers this to have “a high potential for painful consequences."
 
 For those impacted by this illness – including families, friends, and caregivers – these painful consequences are often quite material and last far longer than symptomatic periods. For example, in a [population-scale study](https://doi.org/10.1001/jamapsychiatry.2023.1179) analyzing the credit histories and health records of 46,167 individuals, those with bipolar disorder type I were shown to be at a **50% greater likelihood** of declaring bankruptcy than the healthy population.
 
 ## My Approach
 
+<<<<<<< HEAD
 I take a quant UX approach to create [usable evidence](https://pubmed.ncbi.nlm.nih.gov/30272059/) to inform financial intervention design.
 
 I'm working to understand how fintech-equipped interfaces might support the financial lives of people living with this condition. For example, what would _financial_ advance care planning look like for people who wanted it and how might software incorporate open banking data in order to support those plans? How do certain adverse financial life events influence whether people are comfortable involving trusted others in financial interventions?
 
 I've collaborated with clinicians, digital health researchers, and people with lived experience to understand what is (and what's not!) feasible, acceptable, and possible if we involve financial data into clinical contexts.
 
+=======
+I'm working to understand how fintech-equipped interfaces might support the financial lives of people living with this condition. For example, what would _financial_ advance care planning look like for people who wanted it? How might software incorporate open banking data in order to support those plans? How do certain adverse financial life events influence whether people are comfortable involving trusted others in financial interventions?
+
+I've collaborated with clinicians, digital health researchers, and people with lived experience to understand what is (and what's not!) feasible, acceptable, and possible if we involve financial data into clinical contexts.
+
+I take a [quant UX](https://quantuxblog.com/the-quant-ux-book) approach  in order to create [usable evidence](https://pubmed.ncbi.nlm.nih.gov/30272059/) to inform financial intervention design.
+
+>>>>>>> refs/remotes/origin/main
 ## Tools
 
 Python, R, `lme4` for multilevel modeling, [`marginaleffects`](https://marginaleffects.com/) for posthoc analysis, [`altair`](https://github.com/vega/altair) for visualization, [`hmmTMB`](https://github.com/TheoMichelot/hmmTMB) for hidden Markov models in a multilevel framework. [Sawtooth Software](https://sawtoothsoftware.com/) (who kindly [awarded me a grant](https://sawtoothsoftware.com/academics/grants/grant-recipients/jeff-brozena)) for survey deployment. At home in Linux/Unix environments.
@@ -32,7 +41,7 @@ Python, R, `lme4` for multilevel modeling, [`marginaleffects`](https://marginale
 
 **Evidence-based Digital Design: Utilizing MaxDiff Findings to Guide the Development of Financial Interventions in Bipolar Disorder** · First author · Accepted, Conference of the International Society for Bipolar Disorders, 2026
 
-> A MaxDiff survey deployed to 150 individuals with BD in order to rank 6 digital health intervention features intended to help promote financial stability in this population. The MaxDiff design had not been used in the field of mental health before.
+> A MaxDiff survey deployed to 150 individuals with BD in order to rank 6 digital health intervention features intended to help support financial stability in this population. The MaxDiff design had not been used in the field of mental health before.
 
 **Eight Years of Autonomic Monitoring: An N-of-1 Longitudinal Study of Wearable-derived HRV Anomalies and Self-reported Mood Logs** · First author · Accepted, Conference of the International Society for Bipolar Disorders, 2026
 
