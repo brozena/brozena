@@ -10,7 +10,7 @@ For those impacted by this illness – including families, friends, and caregive
 
 ## My Approach
 
-I take a quant UX approach to create [usable evidence](https://pubmed.ncbi.nlm.nih.gov/30272059/) to inform financial intervention design.
+I take a quant UX approach to create [usable evidence](https://pubmed.ncbi.nlm.nih.gov/30272059/) in order to inform financial intervention design.
 
 I'm working to understand how fintech-equipped interfaces might support the financial lives of people living with this condition. For example, what would _financial_ advance care planning look like for people who wanted it and how might software incorporate open banking data in order to support those plans? How do certain adverse financial life events influence whether people are comfortable involving trusted others in financial interventions?
 
