@@ -26,7 +26,7 @@ Python, R, `lme4` for multilevel modeling, [`marginaleffects`](https://marginale
 
 > A factorial vignette survey (N=500) to examine level of comfort with hypothetical scenarios involving third-party financial interventions during symptomatic and euthymic periods.
 
-**Mapping Financial Behavior in Bipolar Disorder: Development of a Dataset Linking Spending Habits to Mood Fluctuations** ·  First author · Accepted, Conference of the International Society for Bipolar Disorders, 2026
+[**Mapping Financial Behavior in Bipolar Disorder: Development of a Dataset Linking Spending Habits to Mood Fluctuations**](https://brozena.net/assets/hershey.pdf) ·  First author · Accepted, Conference of the International Society for Bipolar Disorders, 2026
 
 > Clinical assessment of financial behavior is often limited to self-report. This study (N=50) used open banking technologies to collect 24 months of transaction data and self-report mood logs from individuals with BD.
 
