@@ -22,7 +22,7 @@ Python, R, `lme4` for multilevel modeling, [`marginaleffects`](https://marginale
 
 ## Selected Publications
 
-**The Currency of Mood: Assessing Acceptance and Privacy Preferences of Third-party Financial Data Sharing in Bipolar Disorder** · First author · Under review, 2026
+[**The Currency of Mood: Assessing Acceptance and Privacy Preferences of Third-party Financial Data Sharing in Bipolar Disorder**](https://doi.org/10.31234/osf.io/syrwu_v2) · First author · Under review, 2026
 
 > A factorial vignette survey (N=500) to examine level of comfort with hypothetical scenarios involving third-party financial interventions during symptomatic and euthymic periods.
 
