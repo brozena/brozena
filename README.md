@@ -37,3 +37,9 @@ Python, R, `lme4` for multilevel modeling, [`marginaleffects`](https://marginale
 **Eight Years of Autonomic Monitoring: An N-of-1 Longitudinal Study of Wearable-derived HRV Anomalies and Self-reported Mood Logs** · First author · Accepted, Conference of the International Society for Bipolar Disorders, 2026
 
 > An intensive N-of-1 analysis examining how wearable-derived nocturnal physiological anomalies and multidimensional mood states interact over an uninterrupted eight-year period.
+
+<!--WORDCOUNT:START-->
+Today: 0 words · This week: 0 words
+<!--WORDCOUNT:END-->
+
+![](assets/wordcount-heatmap.svg)
