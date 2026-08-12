@@ -1,165 +1,165 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="342" height="147" viewBox="0 0 342 147" role="img" aria-label="Writing activity heatmap">
+<svg xmlns="http://www.w3.org/2000/svg" width="408" height="168" viewBox="0 0 408 168" role="img" aria-label="Writing activity heatmap">
 <style>text{font:10px -apple-system,BlinkMacSystemFont,Segoe UI,sans-serif;fill:#57606a}</style>
 <title>Writing activity — goal: 750 words/day</title>
 <text x="0" y="33">Mon</text>
-<text x="0" y="61">Wed</text>
-<text x="0" y="89">Fri</text>
+<text x="0" y="67">Wed</text>
+<text x="0" y="101">Fri</text>
 <text x="34" y="12">Aug</text>
-<rect x="34" y="24" width="11" height="11" rx="2" fill="#e0e0e0" opacity="1"><title>2026-08-01: +0 net words</title></rect>
-<rect x="34" y="38" width="11" height="11" rx="2" fill="#e0e0e0" opacity="1"><title>2026-08-02: +0 net words</title></rect>
-<rect x="34" y="52" width="11" height="11" rx="2" fill="#e0e0e0" opacity="1"><title>2026-08-03: +0 net words</title></rect>
-<rect x="34" y="66" width="11" height="11" rx="2" fill="#e0e0e0" opacity="1"><title>2026-08-04: +0 net words</title></rect>
-<rect x="34" y="80" width="11" height="11" rx="2" fill="#e0e0e0" opacity="1"><title>2026-08-05: +0 net words</title></rect>
-<rect x="34" y="94" width="11" height="11" rx="2" fill="#0a74a9" opacity="1"><title>2026-08-06: +1,146 net words</title></rect>
-<rect x="34" y="108" width="11" height="11" rx="2" fill="#e0e0e0" opacity="1"><title>2026-08-07: +0 net words</title></rect>
-<rect x="48" y="24" width="11" height="11" rx="2" fill="#9be9a8" opacity="1"><title>2026-08-08: +24 net words</title></rect>
-<rect x="48" y="38" width="11" height="11" rx="2" fill="#2ebd54" opacity="1"><title>2026-08-09: +540 net words</title></rect>
-<rect x="48" y="52" width="11" height="11" rx="2" fill="#9be9a8" opacity="1"><title>2026-08-10: +21 net words</title></rect>
-<rect x="48" y="66" width="11" height="11" rx="2" fill="#e0e0e0" opacity="1"><title>2026-08-11: +0 net words</title></rect>
-<rect x="48" y="80" width="11" height="11" rx="2" fill="#9be9a8" opacity="1"><title>2026-08-12: +42 net words</title></rect>
-<rect x="48" y="94" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-08-13: future date</title></rect>
-<rect x="48" y="108" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-08-14: future date</title></rect>
-<rect x="62" y="24" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-08-15: future date</title></rect>
-<rect x="62" y="38" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-08-16: future date</title></rect>
-<rect x="62" y="52" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-08-17: future date</title></rect>
-<rect x="62" y="66" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-08-18: future date</title></rect>
-<rect x="62" y="80" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-08-19: future date</title></rect>
-<rect x="62" y="94" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-08-20: future date</title></rect>
-<rect x="62" y="108" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-08-21: future date</title></rect>
-<rect x="76" y="24" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-08-22: future date</title></rect>
-<rect x="76" y="38" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-08-23: future date</title></rect>
-<rect x="76" y="52" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-08-24: future date</title></rect>
-<rect x="76" y="66" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-08-25: future date</title></rect>
-<rect x="76" y="80" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-08-26: future date</title></rect>
-<rect x="76" y="94" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-08-27: future date</title></rect>
-<rect x="76" y="108" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-08-28: future date</title></rect>
-<rect x="90" y="24" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-08-29: future date</title></rect>
-<rect x="90" y="38" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-08-30: future date</title></rect>
-<rect x="90" y="52" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-08-31: future date</title></rect>
-<text x="90" y="12">Sep</text>
-<rect x="90" y="66" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-09-01: future date</title></rect>
-<rect x="90" y="80" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-09-02: future date</title></rect>
-<rect x="90" y="94" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-09-03: future date</title></rect>
-<rect x="90" y="108" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-09-04: future date</title></rect>
-<rect x="104" y="24" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-09-05: future date</title></rect>
-<rect x="104" y="38" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-09-06: future date</title></rect>
-<rect x="104" y="52" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-09-07: future date</title></rect>
-<rect x="104" y="66" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-09-08: future date</title></rect>
-<rect x="104" y="80" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-09-09: future date</title></rect>
-<rect x="104" y="94" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-09-10: future date</title></rect>
-<rect x="104" y="108" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-09-11: future date</title></rect>
-<rect x="118" y="24" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-09-12: future date</title></rect>
-<rect x="118" y="38" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-09-13: future date</title></rect>
-<rect x="118" y="52" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-09-14: future date</title></rect>
-<rect x="118" y="66" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-09-15: future date</title></rect>
-<rect x="118" y="80" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-09-16: future date</title></rect>
-<rect x="118" y="94" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-09-17: future date</title></rect>
-<rect x="118" y="108" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-09-18: future date</title></rect>
-<rect x="132" y="24" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-09-19: future date</title></rect>
-<rect x="132" y="38" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-09-20: future date</title></rect>
-<rect x="132" y="52" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-09-21: future date</title></rect>
-<rect x="132" y="66" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-09-22: future date</title></rect>
-<rect x="132" y="80" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-09-23: future date</title></rect>
-<rect x="132" y="94" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-09-24: future date</title></rect>
-<rect x="132" y="108" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-09-25: future date</title></rect>
-<rect x="146" y="24" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-09-26: future date</title></rect>
-<rect x="146" y="38" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-09-27: future date</title></rect>
-<rect x="146" y="52" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-09-28: future date</title></rect>
-<rect x="146" y="66" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-09-29: future date</title></rect>
-<rect x="146" y="80" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-09-30: future date</title></rect>
-<text x="146" y="12">Oct</text>
-<rect x="146" y="94" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-10-01: future date</title></rect>
-<rect x="146" y="108" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-10-02: future date</title></rect>
-<rect x="160" y="24" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-10-03: future date</title></rect>
-<rect x="160" y="38" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-10-04: future date</title></rect>
-<rect x="160" y="52" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-10-05: future date</title></rect>
-<rect x="160" y="66" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-10-06: future date</title></rect>
-<rect x="160" y="80" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-10-07: future date</title></rect>
-<rect x="160" y="94" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-10-08: future date</title></rect>
-<rect x="160" y="108" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-10-09: future date</title></rect>
-<rect x="174" y="24" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-10-10: future date</title></rect>
-<rect x="174" y="38" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-10-11: future date</title></rect>
-<rect x="174" y="52" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-10-12: future date</title></rect>
-<rect x="174" y="66" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-10-13: future date</title></rect>
-<rect x="174" y="80" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-10-14: future date</title></rect>
-<rect x="174" y="94" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-10-15: future date</title></rect>
-<rect x="174" y="108" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-10-16: future date</title></rect>
-<rect x="188" y="24" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-10-17: future date</title></rect>
-<rect x="188" y="38" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-10-18: future date</title></rect>
-<rect x="188" y="52" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-10-19: future date</title></rect>
-<rect x="188" y="66" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-10-20: future date</title></rect>
-<rect x="188" y="80" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-10-21: future date</title></rect>
-<rect x="188" y="94" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-10-22: future date</title></rect>
-<rect x="188" y="108" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-10-23: future date</title></rect>
-<rect x="202" y="24" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-10-24: future date</title></rect>
-<rect x="202" y="38" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-10-25: future date</title></rect>
-<rect x="202" y="52" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-10-26: future date</title></rect>
-<rect x="202" y="66" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-10-27: future date</title></rect>
-<rect x="202" y="80" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-10-28: future date</title></rect>
-<rect x="202" y="94" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-10-29: future date</title></rect>
-<rect x="202" y="108" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-10-30: future date</title></rect>
-<rect x="216" y="24" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-10-31: future date</title></rect>
-<text x="216" y="12">Nov</text>
-<rect x="216" y="38" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-11-01: future date</title></rect>
-<rect x="216" y="52" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-11-02: future date</title></rect>
-<rect x="216" y="66" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-11-03: future date</title></rect>
-<rect x="216" y="80" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-11-04: future date</title></rect>
-<rect x="216" y="94" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-11-05: future date</title></rect>
-<rect x="216" y="108" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-11-06: future date</title></rect>
-<rect x="230" y="24" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-11-07: future date</title></rect>
-<rect x="230" y="38" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-11-08: future date</title></rect>
-<rect x="230" y="52" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-11-09: future date</title></rect>
-<rect x="230" y="66" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-11-10: future date</title></rect>
-<rect x="230" y="80" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-11-11: future date</title></rect>
-<rect x="230" y="94" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-11-12: future date</title></rect>
-<rect x="230" y="108" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-11-13: future date</title></rect>
-<rect x="244" y="24" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-11-14: future date</title></rect>
-<rect x="244" y="38" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-11-15: future date</title></rect>
-<rect x="244" y="52" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-11-16: future date</title></rect>
-<rect x="244" y="66" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-11-17: future date</title></rect>
-<rect x="244" y="80" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-11-18: future date</title></rect>
-<rect x="244" y="94" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-11-19: future date</title></rect>
-<rect x="244" y="108" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-11-20: future date</title></rect>
-<rect x="258" y="24" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-11-21: future date</title></rect>
-<rect x="258" y="38" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-11-22: future date</title></rect>
-<rect x="258" y="52" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-11-23: future date</title></rect>
-<rect x="258" y="66" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-11-24: future date</title></rect>
-<rect x="258" y="80" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-11-25: future date</title></rect>
-<rect x="258" y="94" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-11-26: future date</title></rect>
-<rect x="258" y="108" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-11-27: future date</title></rect>
-<rect x="272" y="24" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-11-28: future date</title></rect>
-<rect x="272" y="38" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-11-29: future date</title></rect>
-<rect x="272" y="52" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-11-30: future date</title></rect>
-<text x="272" y="12">Dec</text>
-<rect x="272" y="66" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-12-01: future date</title></rect>
-<rect x="272" y="80" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-12-02: future date</title></rect>
-<rect x="272" y="94" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-12-03: future date</title></rect>
-<rect x="272" y="108" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-12-04: future date</title></rect>
-<rect x="286" y="24" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-12-05: future date</title></rect>
-<rect x="286" y="38" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-12-06: future date</title></rect>
-<rect x="286" y="52" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-12-07: future date</title></rect>
-<rect x="286" y="66" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-12-08: future date</title></rect>
-<rect x="286" y="80" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-12-09: future date</title></rect>
-<rect x="286" y="94" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-12-10: future date</title></rect>
-<rect x="286" y="108" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-12-11: future date</title></rect>
-<rect x="300" y="24" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-12-12: future date</title></rect>
-<rect x="300" y="38" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-12-13: future date</title></rect>
-<rect x="300" y="52" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-12-14: future date</title></rect>
-<rect x="300" y="66" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-12-15: future date</title></rect>
-<rect x="300" y="80" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-12-16: future date</title></rect>
-<rect x="300" y="94" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-12-17: future date</title></rect>
-<rect x="300" y="108" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-12-18: future date</title></rect>
-<rect x="314" y="24" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-12-19: future date</title></rect>
-<rect x="314" y="38" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-12-20: future date</title></rect>
-<rect x="314" y="52" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-12-21: future date</title></rect>
-<rect x="314" y="66" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-12-22: future date</title></rect>
-<rect x="314" y="80" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-12-23: future date</title></rect>
-<rect x="314" y="94" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-12-24: future date</title></rect>
-<rect x="314" y="108" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-12-25: future date</title></rect>
-<rect x="328" y="24" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-12-26: future date</title></rect>
-<rect x="328" y="38" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-12-27: future date</title></rect>
-<rect x="328" y="52" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-12-28: future date</title></rect>
-<rect x="328" y="66" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-12-29: future date</title></rect>
-<rect x="328" y="80" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-12-30: future date</title></rect>
-<rect x="328" y="94" width="11" height="11" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-12-31: future date</title></rect>
+<rect x="34" y="24" width="14" height="14" rx="2" fill="#e0e0e0" opacity="1"><title>2026-08-01: +0 net words</title></rect>
+<rect x="34" y="41" width="14" height="14" rx="2" fill="#e0e0e0" opacity="1"><title>2026-08-02: +0 net words</title></rect>
+<rect x="34" y="58" width="14" height="14" rx="2" fill="#e0e0e0" opacity="1"><title>2026-08-03: +0 net words</title></rect>
+<rect x="34" y="75" width="14" height="14" rx="2" fill="#e0e0e0" opacity="1"><title>2026-08-04: +0 net words</title></rect>
+<rect x="34" y="92" width="14" height="14" rx="2" fill="#e0e0e0" opacity="1"><title>2026-08-05: +0 net words</title></rect>
+<rect x="34" y="109" width="14" height="14" rx="2" fill="#0a74a9" opacity="1"><title>2026-08-06: +1,146 net words</title></rect>
+<rect x="34" y="126" width="14" height="14" rx="2" fill="#e0e0e0" opacity="1"><title>2026-08-07: +0 net words</title></rect>
+<rect x="51" y="24" width="14" height="14" rx="2" fill="#9be9a8" opacity="1"><title>2026-08-08: +24 net words</title></rect>
+<rect x="51" y="41" width="14" height="14" rx="2" fill="#2ebd54" opacity="1"><title>2026-08-09: +540 net words</title></rect>
+<rect x="51" y="58" width="14" height="14" rx="2" fill="#9be9a8" opacity="1"><title>2026-08-10: +21 net words</title></rect>
+<rect x="51" y="75" width="14" height="14" rx="2" fill="#e0e0e0" opacity="1"><title>2026-08-11: +0 net words</title></rect>
+<rect x="51" y="92" width="14" height="14" rx="2" fill="#9be9a8" opacity="1"><title>2026-08-12: +42 net words</title></rect>
+<rect x="51" y="109" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-08-13: future date</title></rect>
+<rect x="51" y="126" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-08-14: future date</title></rect>
+<rect x="68" y="24" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-08-15: future date</title></rect>
+<rect x="68" y="41" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-08-16: future date</title></rect>
+<rect x="68" y="58" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-08-17: future date</title></rect>
+<rect x="68" y="75" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-08-18: future date</title></rect>
+<rect x="68" y="92" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-08-19: future date</title></rect>
+<rect x="68" y="109" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-08-20: future date</title></rect>
+<rect x="68" y="126" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-08-21: future date</title></rect>
+<rect x="85" y="24" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-08-22: future date</title></rect>
+<rect x="85" y="41" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-08-23: future date</title></rect>
+<rect x="85" y="58" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-08-24: future date</title></rect>
+<rect x="85" y="75" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-08-25: future date</title></rect>
+<rect x="85" y="92" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-08-26: future date</title></rect>
+<rect x="85" y="109" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-08-27: future date</title></rect>
+<rect x="85" y="126" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-08-28: future date</title></rect>
+<rect x="102" y="24" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-08-29: future date</title></rect>
+<rect x="102" y="41" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-08-30: future date</title></rect>
+<rect x="102" y="58" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-08-31: future date</title></rect>
+<text x="102" y="12">Sep</text>
+<rect x="102" y="75" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-09-01: future date</title></rect>
+<rect x="102" y="92" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-09-02: future date</title></rect>
+<rect x="102" y="109" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-09-03: future date</title></rect>
+<rect x="102" y="126" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-09-04: future date</title></rect>
+<rect x="119" y="24" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-09-05: future date</title></rect>
+<rect x="119" y="41" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-09-06: future date</title></rect>
+<rect x="119" y="58" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-09-07: future date</title></rect>
+<rect x="119" y="75" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-09-08: future date</title></rect>
+<rect x="119" y="92" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-09-09: future date</title></rect>
+<rect x="119" y="109" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-09-10: future date</title></rect>
+<rect x="119" y="126" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-09-11: future date</title></rect>
+<rect x="136" y="24" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-09-12: future date</title></rect>
+<rect x="136" y="41" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-09-13: future date</title></rect>
+<rect x="136" y="58" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-09-14: future date</title></rect>
+<rect x="136" y="75" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-09-15: future date</title></rect>
+<rect x="136" y="92" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-09-16: future date</title></rect>
+<rect x="136" y="109" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-09-17: future date</title></rect>
+<rect x="136" y="126" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-09-18: future date</title></rect>
+<rect x="153" y="24" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-09-19: future date</title></rect>
+<rect x="153" y="41" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-09-20: future date</title></rect>
+<rect x="153" y="58" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-09-21: future date</title></rect>
+<rect x="153" y="75" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-09-22: future date</title></rect>
+<rect x="153" y="92" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-09-23: future date</title></rect>
+<rect x="153" y="109" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-09-24: future date</title></rect>
+<rect x="153" y="126" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-09-25: future date</title></rect>
+<rect x="170" y="24" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-09-26: future date</title></rect>
+<rect x="170" y="41" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-09-27: future date</title></rect>
+<rect x="170" y="58" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-09-28: future date</title></rect>
+<rect x="170" y="75" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-09-29: future date</title></rect>
+<rect x="170" y="92" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-09-30: future date</title></rect>
+<text x="170" y="12">Oct</text>
+<rect x="170" y="109" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-10-01: future date</title></rect>
+<rect x="170" y="126" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-10-02: future date</title></rect>
+<rect x="187" y="24" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-10-03: future date</title></rect>
+<rect x="187" y="41" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-10-04: future date</title></rect>
+<rect x="187" y="58" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-10-05: future date</title></rect>
+<rect x="187" y="75" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-10-06: future date</title></rect>
+<rect x="187" y="92" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-10-07: future date</title></rect>
+<rect x="187" y="109" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-10-08: future date</title></rect>
+<rect x="187" y="126" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-10-09: future date</title></rect>
+<rect x="204" y="24" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-10-10: future date</title></rect>
+<rect x="204" y="41" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-10-11: future date</title></rect>
+<rect x="204" y="58" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-10-12: future date</title></rect>
+<rect x="204" y="75" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-10-13: future date</title></rect>
+<rect x="204" y="92" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-10-14: future date</title></rect>
+<rect x="204" y="109" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-10-15: future date</title></rect>
+<rect x="204" y="126" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-10-16: future date</title></rect>
+<rect x="221" y="24" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-10-17: future date</title></rect>
+<rect x="221" y="41" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-10-18: future date</title></rect>
+<rect x="221" y="58" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-10-19: future date</title></rect>
+<rect x="221" y="75" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-10-20: future date</title></rect>
+<rect x="221" y="92" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-10-21: future date</title></rect>
+<rect x="221" y="109" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-10-22: future date</title></rect>
+<rect x="221" y="126" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-10-23: future date</title></rect>
+<rect x="238" y="24" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-10-24: future date</title></rect>
+<rect x="238" y="41" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-10-25: future date</title></rect>
+<rect x="238" y="58" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-10-26: future date</title></rect>
+<rect x="238" y="75" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-10-27: future date</title></rect>
+<rect x="238" y="92" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-10-28: future date</title></rect>
+<rect x="238" y="109" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-10-29: future date</title></rect>
+<rect x="238" y="126" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-10-30: future date</title></rect>
+<rect x="255" y="24" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-10-31: future date</title></rect>
+<text x="255" y="12">Nov</text>
+<rect x="255" y="41" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-11-01: future date</title></rect>
+<rect x="255" y="58" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-11-02: future date</title></rect>
+<rect x="255" y="75" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-11-03: future date</title></rect>
+<rect x="255" y="92" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-11-04: future date</title></rect>
+<rect x="255" y="109" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-11-05: future date</title></rect>
+<rect x="255" y="126" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-11-06: future date</title></rect>
+<rect x="272" y="24" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-11-07: future date</title></rect>
+<rect x="272" y="41" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-11-08: future date</title></rect>
+<rect x="272" y="58" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-11-09: future date</title></rect>
+<rect x="272" y="75" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-11-10: future date</title></rect>
+<rect x="272" y="92" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-11-11: future date</title></rect>
+<rect x="272" y="109" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-11-12: future date</title></rect>
+<rect x="272" y="126" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-11-13: future date</title></rect>
+<rect x="289" y="24" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-11-14: future date</title></rect>
+<rect x="289" y="41" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-11-15: future date</title></rect>
+<rect x="289" y="58" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-11-16: future date</title></rect>
+<rect x="289" y="75" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-11-17: future date</title></rect>
+<rect x="289" y="92" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-11-18: future date</title></rect>
+<rect x="289" y="109" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-11-19: future date</title></rect>
+<rect x="289" y="126" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-11-20: future date</title></rect>
+<rect x="306" y="24" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-11-21: future date</title></rect>
+<rect x="306" y="41" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-11-22: future date</title></rect>
+<rect x="306" y="58" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-11-23: future date</title></rect>
+<rect x="306" y="75" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-11-24: future date</title></rect>
+<rect x="306" y="92" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-11-25: future date</title></rect>
+<rect x="306" y="109" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-11-26: future date</title></rect>
+<rect x="306" y="126" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-11-27: future date</title></rect>
+<rect x="323" y="24" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-11-28: future date</title></rect>
+<rect x="323" y="41" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-11-29: future date</title></rect>
+<rect x="323" y="58" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-11-30: future date</title></rect>
+<text x="323" y="12">Dec</text>
+<rect x="323" y="75" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-12-01: future date</title></rect>
+<rect x="323" y="92" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-12-02: future date</title></rect>
+<rect x="323" y="109" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-12-03: future date</title></rect>
+<rect x="323" y="126" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-12-04: future date</title></rect>
+<rect x="340" y="24" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-12-05: future date</title></rect>
+<rect x="340" y="41" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-12-06: future date</title></rect>
+<rect x="340" y="58" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-12-07: future date</title></rect>
+<rect x="340" y="75" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-12-08: future date</title></rect>
+<rect x="340" y="92" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-12-09: future date</title></rect>
+<rect x="340" y="109" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-12-10: future date</title></rect>
+<rect x="340" y="126" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-12-11: future date</title></rect>
+<rect x="357" y="24" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-12-12: future date</title></rect>
+<rect x="357" y="41" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-12-13: future date</title></rect>
+<rect x="357" y="58" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-12-14: future date</title></rect>
+<rect x="357" y="75" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-12-15: future date</title></rect>
+<rect x="357" y="92" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-12-16: future date</title></rect>
+<rect x="357" y="109" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-12-17: future date</title></rect>
+<rect x="357" y="126" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-12-18: future date</title></rect>
+<rect x="374" y="24" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-12-19: future date</title></rect>
+<rect x="374" y="41" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-12-20: future date</title></rect>
+<rect x="374" y="58" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-12-21: future date</title></rect>
+<rect x="374" y="75" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-12-22: future date</title></rect>
+<rect x="374" y="92" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-12-23: future date</title></rect>
+<rect x="374" y="109" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-12-24: future date</title></rect>
+<rect x="374" y="126" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-12-25: future date</title></rect>
+<rect x="391" y="24" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-12-26: future date</title></rect>
+<rect x="391" y="41" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-12-27: future date</title></rect>
+<rect x="391" y="58" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-12-28: future date</title></rect>
+<rect x="391" y="75" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-12-29: future date</title></rect>
+<rect x="391" y="92" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-12-30: future date</title></rect>
+<rect x="391" y="109" width="14" height="14" rx="2" fill="#e0e0e0" opacity="0.42"><title>2026-12-31: future date</title></rect>
 </svg>
