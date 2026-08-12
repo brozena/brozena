@@ -41,7 +41,7 @@ Python, R, `lme4` for multilevel modeling, [`marginaleffects`](https://marginale
 <!-- WRITING-STATS:START -->
 ## Writing Stats
 
-**Aug–Feb 2027, through 2026-08-12:** 1,773 net words <br>
+**Aug–Feb 2027 as of 2026-08-12:** 1,773 net words <br>
 **Average:** 148 net words/day (355 on 5 active days) <br>
 **Goal met:** 1/12 days at ≥850 words
 
