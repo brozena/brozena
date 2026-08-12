@@ -41,7 +41,7 @@ Python, R, `lme4` for multilevel modeling, [`marginaleffects`](https://marginale
 <!-- WRITING-STATS:START -->
 ## Writing Stats 
 
-It's dissertation season and so on until Feb '27.
+It's dissertation season through Feb '27.
 
 **As of Aug 12, 2026:** 42 net words <br>
 **Average:** 42 net words/day (42 on 1 active days) <br>
