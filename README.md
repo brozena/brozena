@@ -41,7 +41,7 @@ Python, R, `lme4` for multilevel modeling, [`marginaleffects`](https://marginale
 <!-- WRITING-STATS:START -->
 ## Writing Stats 
 
-**Between Aug 12, 2026 and Feb 28, 2027**, <br>
+Progress tracker for dissertation writing, etc. between Aug 12, 2026 and Feb 28, 2027**. <br>
 
 **As of Aug 12, 2026:** 42 net words <br>
 **Average:** 42 net words/day (42 on 1 active days) <br>
