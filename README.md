@@ -39,7 +39,7 @@ Python, R, `lme4` for multilevel modeling, [`marginaleffects`](https://marginale
 > An intensive N-of-1 analysis examining how wearable-derived nocturnal physiological anomalies and multidimensional mood states interact over an uninterrupted eight-year period.
 
 <!-- WRITING-STATS:START -->
- --
+ <hr style="border:2px solid gray"> 
 
 **Aug–Dec 2026, through 2026-08-12:** 1,773 net words <br>
 **Average:** 148 net words/day (355 on 5 active days) <br>
