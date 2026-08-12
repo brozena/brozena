@@ -45,7 +45,7 @@ It's dissertation season and so on until Feb '27.
 
 **As of Aug 12, 2026:** 42 net words <br>
 **Average:** 42 net words/day (42 on 1 active days) <br>
-**Goal met:** 0/1 days at ≥850 words
+**Goal met:** 0/1 days at ≥ 850 words per day
 
 ![GitHub-style heatmap of daily writing activity](assets/writing-heatmap.svg)
 
