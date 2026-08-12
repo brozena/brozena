@@ -41,9 +41,9 @@ Python, R, `lme4` for multilevel modeling, [`marginaleffects`](https://marginale
 <!-- WRITING-STATS:START -->
 ## Writing
 
-**Last 14 days:** 1,773 net words  
-**Average:** 127 net words/day (355 on 5 active days)  
-**Goal met:** 1/14 days at ≥750 words
+**Last 7 days:** 1,773 net words  
+**Average:** 253 net words/day (355 on 5 active days)  
+**Goal met:** 1/7 days at ≥750 words
 
 ![GitHub-style heatmap of daily writing activity](assets/writing-heatmap.svg)
 
