@@ -47,5 +47,5 @@ Python, R, `lme4` for multilevel modeling, [`marginaleffects`](https://marginale
 
 ![GitHub-style heatmap of daily writing activity](assets/writing-heatmap.svg)
 
-<sub>Daily totals are net word changes; deletions count negatively. Future 2026 dates are shown dimmed and excluded from statistics.</sub>
+
 <!-- WRITING-STATS:END -->
