@@ -39,7 +39,7 @@ Python, R, `lme4` for multilevel modeling, [`marginaleffects`](https://marginale
 > An intensive N-of-1 analysis examining how wearable-derived nocturnal physiological anomalies and multidimensional mood states interact over an uninterrupted eight-year period.
 
 <!-- WRITING-STATS:START -->
-## Writing Stats 
+## Writing Stats
 
 It's dissertation season through Feb '27.
 
@@ -49,5 +49,4 @@ It's dissertation season through Feb '27.
 
 ![GitHub-style heatmap of daily writing activity](assets/writing-heatmap.svg)
 
-<sub>Daily totals are net word changes; deletions count negatively. Future dates are shown dimmed and excluded from statistics.</sub>
 <!-- WRITING-STATS:END -->
